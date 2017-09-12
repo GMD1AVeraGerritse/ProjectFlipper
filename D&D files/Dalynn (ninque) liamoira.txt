@@ -1,0 +1,141 @@
+vera
+
+name: dalynn (ninque) liamoira
+gender: female
+race: half elf
+age:21
+height:1.75
+weight: 57
+eyes: white
+hair: black
+skin: greyish
+class: druid
+languages:common, elvish, druidic, dwarvish, orcish
+speed 30Ft
+size medium
+
+dark vision 60ft
+
+Fey Ancestry.
+You have advantage on saving throws 
+against being charmed, and magic can’t put you to sleep.
+
+hp 43 = 817673 = 32 + 8 + 3 = 43
+ac 13
+
+profs
+perception
+animal handling
+athletics
+survival
+
+*music instrument
+herb kit
+
+con 3616 = 15 + 1 	= 16  con
+char 3512 = 10 + 2	= 12  char
+str 3641 = 14  		= 14  str
+wis 5663 = 17 + 1	= 18  wis save
+dex 3643 = 13 + 1	= 14  dex
+int 3166 = 15 + 1 	= 16  int save
+
+equipment
+spear 1d6 p /thrown / 1d8 2 handed
+scimitar 1d6 s
+leather armor
+an explorers pack
+a backpack
+a bedroll 
+a mess kit
+a tinderbox
+10 torches
+10 days of rations
+and a waterskin 
+50 feet of hempen rope 
+druid focus
+staff
+hunting trap
+trophy from animal i killed
+travelers clothes
+belt pouch
+10g
+
+spells
+
+cantrips
+mending
+poison spray
+shape water
+
+lvl 1
+cure wounds
+jump
+ice knife
+fog cloud
+
+lvl 2
+locate object
+moonbeam
+protection from poison
+
+lvl 3
+lightning bolt
+tidal wave
+water breathing
+
+lvl 4
+conjure minor elementals
+
+circle of the moon
+
+Primal Stike
+Starting at 6th level, your attacks in beast form count as 
+magical for the purpose of overcoming resistance and 
+immunity to nonmagical attacks and damage
+
+Circle Forms
+The rites of your circle grant you the ability to transform 
+into more dangerous animal forms. Starting at 2nd 
+level, you can use your W ild Shape to transform into a 
+beast with a challenge rating as high as 1  (you ignore 
+the Max. CR column of the Beast Shapes table, but must 
+abide by the other limitations there).
+Starting at 6th level, you can transform into a beast 
+with a challenge rating as high as your druid level 
+divided by 3, rounded down
+
+background
+
+origin
+outcast
+
+personality trait
+I’m driven by a wanderlust that led me away 
+from home
+
+ideal
+Honor. 
+If I dishonor myself, I dishonor my whole 
+clan/crew. (Lawful)
+
+bond
+I am the last of my tribe, and it is up to me to ensure 
+their names enter legend.
+
+flaw
+I am slow to trust members of other races, tribes, and 
+societies.
+
+
+
+sidekick
+dwarf male
+gredohr (nagra) duladin
+24 crewmembers
+all kinds of races
+(we all have respect for each other. 
+everyone is on here on free will and is allowed to leave at any time. 
+they all needed a place to stay or flee from something)
+
+
+

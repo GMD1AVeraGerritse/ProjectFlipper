@@ -1,0 +1,87 @@
+name char:Xayah
+gender: female
+race: harpy
+age: 825
+height: 1.60
+weight: 42 kg
+eyes: red
+class: ranger
+languages: common, avion, *, elvish
+ground speed:
+flight speed:
+
+race ability's
+
+dex + 2
+con + 1
+
+hp: 84
+ac: 16
+
+(2x ability improv) 
+14 cha 16
+13 str 13 save
+14 wis 16
+18 dex 20 save
+10 int 10
+15 con 16
+
+prof
+Armor: 
+Light armor, medium armor, shields 
+Weapons: 
+Simple weapons, martial weapons 
+Tools: 
+fluit
+Saving Throws: 
+Strength, Dexterity 
+stealth, perception, athletics, survival
+
+equipment
+leather
+2 shortswords 1d6 p each
+explorers pack
+longbow with arrows 1d8p
+A staff
+a hunting trap
+a trophy from an animal you killed
+a set of traveler’s clothes
+and a belt pouch containing  10 gp
+
+favored enemy
+enemy normal: beast
+enemy humanoid: human
+enemy humanoid: elf
+
+natural explorer: forest
+fighting style: archery
+ranger archtype
+primeval awareness
+lands stride
+
+hunter
+giant killer
+multiattack defense
+
+
+BACKGROUND
+feature:
+wanderer
+
+origin
+exile
+
+personality trait: 
+our lust for blood and love were to strong for our tribe
+
+ideal
+might the strongest are meant to rule (evil)
+
+bond
+my true love
+
+flaw
+humans and elves are livestock
+
+
+

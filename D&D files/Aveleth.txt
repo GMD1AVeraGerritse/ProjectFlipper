@@ -1,0 +1,152 @@
+name:aveleth
+gender:female
+race: human variant (half Vampire)
+age: 962 (14 when became vamp)
+height: 1m 64
+weight: 49 kg
+eyes: red
+hair: black
+class: necromancer
+languages:common , dwarvish, elvish
+speed: 40 ft
+lvl 4
+
+
+racial traits:
+half speed spiderclimp
+speed +10
+restistance poison, no oxigen
+vuneruble to radiant damage
+
+keen Mind:
+int + 1
+know north
+time of day
+recall everything;
+
+
+hp: 41 / 41
+ac: 14
+
+xp: 7800
+
+17 = 6651 + 3 = 20 con
+14 = 6262 + 0 = 14 wis
+18 = 6666 + 2 = 20 cha
+16 = 2655 + 1 = 17 dex
+15 = 5464 + 0 = 16 int
+16 = 6641 + 0 = 18 str
+
+int
+dex
+con
+wis
+char
+str
+https://docs.google.com/document/d/1eYMVJ6iAHhm4umzQ_qgNwEH8H9w95OvbL-px_vbfi9w/edit?usp=sharing
+prof:
+intimidation,deception, persuasion, acrobatics.
+
+caretaker
+
+Armor: Light armor
+Weapons: All simple weapons, scythes
+Tools: Embalming tools
+Saving Throws: Constitution, Charisma
+
+equipment
+leather armor
+dagger 1d4+dex throw
+arcane focus
+scythe 2d4 slashing
+dungeoneers pack
+247 g
+
+
+backGround: custom3
+
+undead raven
+(RAVEN 
+Tiny beast, unaligned 
+Armor Class 12 
+HitPoints 4 (1d4-1) + 3  
+Speed 10ft., fly 50 ft. 
+STR 2 (-4) DEX 14(+2) CON 8(-1) Int 2 (-4) WIS 12 (+1) cha 6(-2)
+
+skills Perception +3 
+Senses passive Perception 13 
+Languages
+-
+
+Mimicry. 
+The raven can mimic simple sounds it  has  heard,such as a  person whispering, a  baby crying, or an animal chittering. 
+A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+
+ACTIONS 
+Beak. 
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 pierc ing damage.)
+
+9 skeleton	
+AC 	13 (leather) 	
+HP 	24 	
+Speed 	30 ft. 	
+STR 	10 	
+DEX 	14 	
+CON 	15 	
+INT 	6 	
+WIS 	8 	
+CHA 	5 	
+Senses 	Darkvision 60 Ft. 	
+Passive Perception 	9 	
+Languages 	Understands All Languages It Spoke In Life But Can't Speak 	
+Condition Immunities 	Exhaustion, Poisoned 	
+Vulnerabilities 	Bludgeoning 	
+Challenge Rating 	1/4 	
+Roll 0 	Shortsword
+ 9x - R0001-F = 4d6 damage
+rare knuppels = 1d6 + str
+/roll 1d20 +5
+/roll 4d6
+
+
++prof to hit
+1d6+2 	
+Immunities 	Poison
+
+0 warg
+
+Attributes
+Size 	Large 	
+Type 	Monstrosity 	
+Alignment 	Neutral Evil 	
+AC 	13 (Natural Armor) 	
+HP 	48 	
+Speed 	50 ft. 	
+STR 	16 	
+DEX 	13 	
+CON 	13 	
+INT 	7 	
+WIS 	11 	
+CHA 	8 	
+Senses 	Darkvision 60 Ft. 	
+Passive Perception 	14 	
+Skills 	Perception +4 	
+Languages 	Goblin, Worg 	
+
+Bite: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 
+Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, 
+it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+skellys
+/roll 1d20 +5
+/roll *d6 + *   (3 per skel die raakt)
+
+warg
+/roll 1d20 +5
+/roll 2d6 +3
+
+
+
+Aura of Ferocity
+Costs 2 hp/round.
+Affected creatures may add your Charisma modifier to their damage rolls with weapon attacks.

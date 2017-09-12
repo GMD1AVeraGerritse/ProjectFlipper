@@ -1,0 +1,75 @@
+name:Draka
+race: half orc
+class: barbarian
+height: 2 mtr
+weight:97 kg
+hair: black
+eyes: dark brown
+skin: green
+languages:common, orcisch, dwarvish
+
+darkvision 60ft
+bonus action move towards enemy at own speed
+lift drag carry push as if large
+
+18 str save
+16 con save
+14 dex
+13 wis
+13 cha
+11 int
+
+hp: 26
+ac: 15
+
+profs
+light, medium armor, shields
+simple,martial weapons
+
+intimidation, perception, athletics, survival
+
+great axe 1d12 slash
+2 handaxes 1d6 slashing
+explorers pack
+4 javelins
+staff
+hunting trap
+trophy
+travelers cloth
+10g
+
+
+combat:
+rage: 
+adv on str checks&save
++2 attack damage
+restance bludgeoning, piercing,slashing
+
+reckless attack:
+adv on attack but others have adv on me
+
+danger sense:
+dex save adv on suprise effects that i can see(traps spells)
+
+path of the beserker:
+frenzy:
+as you go in rage can go in frenzy
+1 attack as bonus action
+when ends 1 lvl of exhaustion.
+
+1d20+4, 1d12+2
+of
+1d20+4, 1d20+4, 1d6+2per hit
+
+BACKGROUND:
+outlander:
+origin: tribal marauder
+personality trait:place no stock in wealthy or well-mannered folk. 
+Money and manners won’t save you from a hungry 
+owlbear
+
+ideal:honor, if i dishonor mysself, i dishonor my whole clan.
+
+bond:i am the last of my tribe, and its up to me to ensure the name enters legend
+
+flaw: violence is my awnser to almost any challenge.

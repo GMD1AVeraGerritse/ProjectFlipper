@@ -1,0 +1,93 @@
+cVera:
+
+Name char: qualin morwen
+Gender: female
+Race: Drow
+Age: 118
+Height: 1.87
+Weight: 36KG
+Eyes: White
+Hair: White
+class: Warlock
+Languages: Common, Elvish, Sylvan
+Speed: 30ft
+
+superior Darkvision: 120 ft
+
+Keen senses: prof in perseption
+
+Fey ancestry:  Fey Ancestry. You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+Drow Weapon Training. You have proficiency with rapiers, shortswords, and hand crossbows.
+ 
+Drow Magic: You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. 
+W hen you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells. 
+Dex +2
+Cha +1
+
+
+11HP
+14AC
+
+
+16 Dex
+19 Char save prof
+14 Int
+13 Str
+18 Con
+15 Wis save prof
+
+prof:
+Intimidation
+Arcana
+Medicine
+Religion
+
+
+equipment
+Quarterstaff 1D6 B
+2Daggers 1D4 P
+Sickle	1D4 S
+Component pouch
+Scholar's pack:  Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+Hermit Equipment:A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of com m on clothes, an herbalism kit, and 5 gp
+
+Tool prof: Herbalism Kit
+
+
+Cantrips:
+Eldritchblast
+Thunderclap
+Dancing Lights
+
+lvl 1 spells:
+Witch bolt
+Armor of Agathys
+
+
+
+
+
+
+Background: Hermit
+
+Life of Selcusion: 
+as a drow i lived in a small cave always apart for others. with only a few drow's living with me. they always did rituals and sacrifices. and i have never seen anyone outside this group.
+
+Personality trait:
+I connect everything that happens to me to a grand, cosmic plan.
+
+Ideal:
+Power. Solitude and contemplation are paths toward 
+mystical or magical power. (Lawful Evil)
+
+Bond:
+Nothing is more important than the other members of my hermitage, order, or association.
+
+
+Flaw:
+I like keeping secrets and won’t share them with anyone.
+
+
+
+

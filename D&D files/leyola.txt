@@ -1,0 +1,70 @@
+name:leyola
+race: tiefling
+age :17
+height:1.68m
+weight: 57 kg
+gender: female
+race: tiefling
+eyes:red
+skin: white
+hair: black
+class:sorcerer
+languages: common,infernal, elvisch
+speed: 30 feet
+
+darkvision : 60ft
+resistance to fire damage
+thaumaturgy
+
+2533 = 11 + 1 =	12 dex
+6614 = 16 + 2 = 18 cha save
+1462 = 12 + 	12 wis
+1335 = 11 + 1 = 12 int
+1456 = 15 + 1 = 16 con save
+3231 = 8  +	8  str
+
+hp: 35
+ac: 13
+
+proficiencies
+armor: none
+weapons: daggers, darts, slings, quarterstaffs, lightcrossbows
+skills: arcana, insight, athletics, survival
+tools: flute
+
+inventory:
+quarterstaff 1d6 / 1d8
+an arcane focus
+explores pack
+2 daggers 1d4 pi/tro
+staff
+hunting trap
+trophy
+clothes
+10 g
+
+
+quickened spell 2 sp to make spell bonus action
+distant spell 1 sp double range. is it touch 30 ft range
+
+sorcery points: 5
+cantrips : 5
+spells: 6
+spellslots : 4x1 3x2 2x3
+
+wild magic
+
+background: 
+outlander
+
+chaotic
+
+origin: bounty hunter
+
+personality trait: 1
+ideal : change
+bond: 3
+flaw: 5
+
+
+
