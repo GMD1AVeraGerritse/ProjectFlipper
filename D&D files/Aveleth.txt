@@ -9,7 +9,7 @@ hair: black
 class: necromancer
 languages:common , dwarvish, elvish
 speed: 40 ft
-lvl 5
+lvl 6
 
 
 racial traits:
@@ -25,10 +25,10 @@ time of day
 recall everything;
 
 
-hp: 50 / 50
+hp: 59 / 59
 ac: 14
 
-xp: 7800
+xp: 14500
 
 17 = 6651 + 3 = 20 con
 14 = 6262 + 0 = 14 wis
@@ -60,10 +60,10 @@ dagger 1d4+dex throw
 arcane focus
 scythe 2d4 slashing
 dungeoneers pack
-247 g
+5000 g
 
 
-backGround: custom3
+ - backGround: custom3
 
 undead raven
 (RAVEN 
@@ -79,7 +79,7 @@ Languages
 -
 
 Mimicry. 
-The raven can mimic simple sounds it  has  heard,such as a  person whispering, a  baby crying, or an animal chittering. 
+The raven can mimic simple sounds it  has  heard,such as a  person whispering, a  baby crying, or an animal chittering.0
 A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
 ACTIONS 
@@ -105,6 +105,9 @@ Challenge Rating 	1/4
 Roll 0 	Shortsword
  9x - R0001-F = 4d6 damage
 rare knuppels = 1d6 + str
+
+
+
 /roll 1d20 +5
 /roll 4d6
 
