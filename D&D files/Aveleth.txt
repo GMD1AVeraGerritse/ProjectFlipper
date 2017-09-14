@@ -9,7 +9,7 @@ hair: black
 class: necromancer
 languages:common , dwarvish, elvish
 speed: 40 ft
-lvl 4
+lvl 5
 
 
 racial traits:
@@ -25,7 +25,7 @@ time of day
 recall everything;
 
 
-hp: 41 / 41
+hp: 50 / 50
 ac: 14
 
 xp: 7800
@@ -113,38 +113,15 @@ rare knuppels = 1d6 + str
 1d6+2 	
 Immunities 	Poison
 
-0 warg
-
-Attributes
-Size 	Large 	
-Type 	Monstrosity 	
-Alignment 	Neutral Evil 	
-AC 	13 (Natural Armor) 	
-HP 	48 	
-Speed 	50 ft. 	
-STR 	16 	
-DEX 	13 	
-CON 	13 	
-INT 	7 	
-WIS 	11 	
-CHA 	8 	
-Senses 	Darkvision 60 Ft. 	
-Passive Perception 	14 	
-Skills 	Perception +4 	
-Languages 	Goblin, Worg 	
-
-Bite: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 
-Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, 
-it must succeed on a DC 13 Strength saving throw or be knocked prone.
-
 skellys
 /roll 1d20 +5
-/roll *d6 + *   (3 per skel die raakt)
+/roll *d6  (4 per skel die raakt)
 
-warg
-/roll 1d20 +5
-/roll 2d6 +3
-
+self
+charnel touch
+/roll 1d20 +8
+/roll 2d8 +5
+if dies half the damage heals
 
 
 Aura of Ferocity
