@@ -25,10 +25,10 @@ time of day
 recall everything;
 
 
-hp: 59 / 59
+hp: 43 / 59
 ac: 14
 
-xp: 14500
+xp: 18000
 
 17 = 6651 + 3 = 20 con
 14 = 6262 + 0 = 14 wis
@@ -60,7 +60,10 @@ dagger 1d4+dex throw
 arcane focus
 scythe 2d4 slashing
 dungeoneers pack
-5000 g
+5003 g
+6x longswords
+4x - R0001-F = 4d6 damage
+6X Longbow (each with quiver with 20 arrows)
 
 
  - backGround: custom3
@@ -86,7 +89,7 @@ ACTIONS
 Beak. 
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 pierc ing damage.)
 
-9 skeleton	
+skeleton	
 AC 	13 (leather) 	
 HP 	24 	
 Speed 	30 ft. 	
@@ -101,31 +104,44 @@ Passive Perception 	9
 Languages 	Understands All Languages It Spoke In Life But Can't Speak 	
 Condition Immunities 	Exhaustion, Poisoned 	
 Vulnerabilities 	Bludgeoning 	
-Challenge Rating 	1/4 	
-Roll 0 	Shortsword
- 9x - R0001-F = 4d6 damage
-rare knuppels = 1d6 + str
+Challenge Rating 	1/4 
 
+Bandit
+Medium humanoid (any race),any non-lawful alignment
+Armor Class 12
+Hit Points 24
+Speed 30 ft.
+str 11 (0)
+dex 12 (+1)
+con 12 (+1)
+int 10 (0)
+wis 10 (0)
+cha 10 (0)
+Proficiency Bonus+2
+Sensespassive Perception 10
+Languages any one language (usually Common)
 
+Scimitar.Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+Light Crossbow.Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 
-/roll 1d20 +5
-/roll 4d6
-
-
-+prof to hit
-1d6+2 	
-Immunities 	Poison
-
-skellys
-/roll 1d20 +5
-/roll *d6  (4 per skel die raakt)
-
+bandit -24hp- scimitar
+bandit -24hp- scimitar
+bandit -24hp- scimitar
+--------------------------------------------------------------------------------
 self
 charnel touch
 /roll 1d20 +8
 /roll 2d8 +5
 if dies half the damage heals
 
+bandits
+scimitar
+/roll 1d20 +3
+/roll 1d6 +4
+
+light crossbow
+/roll 1d20 +4
+/roll 1d8 +1
 
 Aura of Ferocity
 Costs 2 hp/round.
